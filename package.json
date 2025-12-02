@@ -1,0 +1,19 @@
+{
+  "name": "simona-websocket-bridge",
+  "version": "1.0.0",
+  "description": "WebSocket bridge for real-time data flow from Recall.ai to client.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "websocket",
+    "render",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
